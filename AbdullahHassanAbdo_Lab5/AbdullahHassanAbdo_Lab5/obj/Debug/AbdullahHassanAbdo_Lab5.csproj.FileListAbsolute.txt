@@ -1,0 +1,16 @@
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.csproj.AssemblyReference.cache
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.Form1.resources
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.Properties.Resources.resources
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.csproj.GenerateResource.cache
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.csproj.CoreCompileInputs.cache
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\bin\Debug\AbdullahHassanAbdo_Lab5.exe.config
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\bin\Debug\AbdullahHassanAbdo_Lab5.exe
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\bin\Debug\AbdullahHassanAbdo_Lab5.pdb
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.exe
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.pdb
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.Form2.resources
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.Form3.resources
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.Form4.resources
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.Form5.resources
+C:\Users\CFP\source\repos\AbdullahHassanAbdo_Lab5\AbdullahHassanAbdo_Lab5\obj\Debug\AbdullahHassanAbdo_Lab5.BackgroundForms.resources
